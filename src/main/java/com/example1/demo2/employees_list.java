@@ -40,9 +40,9 @@ public class employees_list {
     public static void main(String[] args) {
         employees_list empList = new employees_list();
 
-        empList.addEmployee("Alice", 101, "HR");
-        empList.addEmployee("Bob", 102, "Finance");
-        empList.addEmployee("Charlie", 103, "Engineering");
+        empList.addEmployee("Aatif Aalam", 006, "CSE");
+        empList.addEmployee("Bob",007, "Finance");
+        empList.addEmployee("Charlie",012, "Engineering");
 
         empList.displayEmployees();
     }
