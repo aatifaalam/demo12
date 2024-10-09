@@ -43,6 +43,8 @@ public class employees_list {
         empList.addEmployee("Aatif Aalam", 6, "CSE");
         empList.addEmployee("Bob", 7, "Finance");
         empList.addEmployee("Charlie", 10, "Engineering");
+        empList.addEmployee("Charlie1", 101, "CS Engineering");
+
 
         empList.displayEmployees();
     }
