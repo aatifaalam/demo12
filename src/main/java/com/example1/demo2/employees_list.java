@@ -45,7 +45,6 @@ public class employees_list {
         empList.addEmployee("Charlie", 10, "Engineering");
         empList.addEmployee("Charlie1", 101, "CS Engineering");
 
-
         empList.displayEmployees();
     }
 }
